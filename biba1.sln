@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biba1", "biba1\biba1.csproj", "{E93CCCEA-84F0-47AC-AE01-E3EF26ECF9B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93CCCEA-84F0-47AC-AE01-E3EF26ECF9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93CCCEA-84F0-47AC-AE01-E3EF26ECF9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93CCCEA-84F0-47AC-AE01-E3EF26ECF9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93CCCEA-84F0-47AC-AE01-E3EF26ECF9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {411EF23D-C388-43C2-B640-2F04BB09D982}
+	EndGlobalSection
+EndGlobal
